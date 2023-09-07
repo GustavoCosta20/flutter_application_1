@@ -1,3 +1,3 @@
-# flutter_application_1
+Atividade Bola mágica.
 
 A new Flutter project.
